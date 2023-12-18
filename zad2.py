@@ -6,14 +6,12 @@
 
 def pomnoz(a, b):
     wynik = a * b
-    return wynik
+return wynik
 
-# Przykładowe użycie funkcji
 liczba1 = 5
 liczba2 = 7
 wynik_mnozenia = pomnoz(liczba1, liczba2)
 
-# Wyświetlenie wyniku
 print(wynik_mnozenia)
 
 
