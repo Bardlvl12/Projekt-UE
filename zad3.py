@@ -6,13 +6,11 @@
 
 def czy_parzysta(liczba):
     wynik = liczba % 2 == 0
-    return wynik
+return wynik
 
-# Przykładowe użycie funkcji
 liczba_do_sprawdzenia = 10
 wynik_sprawdzenia = czy_parzysta(liczba_do_sprawdzenia)
 
-# Wyświetlenie odpowiedniego tekstu w zależności od wyniku
 if wynik_sprawdzenia:
     print("Liczba parzysta")
 else:
