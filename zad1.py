@@ -6,7 +6,7 @@
 
 def przywitanie(name, surname):
     wynik = f"Cześć {name} {surname}!"
-return wynik
+    return wynik
 
 imie = "Jan"
 nazwisko = "Kowalski"
