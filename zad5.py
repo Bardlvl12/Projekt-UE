@@ -6,7 +6,8 @@
 
 def sprawdz_czy_zawiera(lista, szukana_wartosc):
     wynik = szukana_wartosc in lista
-return wynik
+    return wynik
+
 
 moja_lista = [1, 3, 5, 7, 9]
 wartosc_do_sprawdzenia = 5
