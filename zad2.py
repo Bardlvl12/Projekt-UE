@@ -6,7 +6,8 @@
 
 def pomnoz(a, b):
     wynik = a * b
-return wynik
+    return wynik
+
 
 liczba1 = 5
 liczba2 = 7
