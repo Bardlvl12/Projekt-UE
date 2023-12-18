@@ -6,7 +6,8 @@
 
 def czy_parzysta(liczba):
     wynik = liczba % 2 == 0
-return wynik
+    return wynik
+
 
 liczba_do_sprawdzenia = 10
 wynik_sprawdzenia = czy_parzysta(liczba_do_sprawdzenia)
