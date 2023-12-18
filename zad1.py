@@ -8,5 +8,6 @@ def wyswietl_imiona(imiona):
     for imie in imiona:
         print(imie)
 
+
 imiona = ["Anna", "Jan", "Maria", "Tomasz", "Katarzyna"]
 wyswietl_imiona(imiona)
