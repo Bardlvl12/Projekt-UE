@@ -12,7 +12,7 @@ def polacz_i_przetworz(list1, list2):
 
     przetworzona_lista = [element ** 3 for element in unikalna_lista]
 
-return przetworzona_lista
+    return przetworzona_lista
 
 
 lista1 = [1, 2, 3, 4]
