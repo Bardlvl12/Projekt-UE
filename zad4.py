@@ -7,7 +7,8 @@
 def sprawdz_sumę(a, b, c):
     suma_dwóch_pierwszych = a + b
     wynik = suma_dwóch_pierwszych >= c
-return wynik
+    return wynik
+
 
 liczba1 = 5
 liczba2 = 7
