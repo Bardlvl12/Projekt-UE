@@ -7,15 +7,13 @@
 def sprawdz_sumę(a, b, c):
     suma_dwóch_pierwszych = a + b
     wynik = suma_dwóch_pierwszych >= c
-    return wynik
+return wynik
 
-# Przykładowe użycie funkcji
 liczba1 = 5
 liczba2 = 7
 liczba3 = 10
 wynik_sprawdzenia = sprawdz_sumę(liczba1, liczba2, liczba3)
 
-# Wyświetlenie wyniku
 print(wynik_sprawdzenia)
 
 
