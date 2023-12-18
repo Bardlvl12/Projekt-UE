@@ -6,13 +6,11 @@
 
 def przywitanie(name, surname):
     wynik = f"Cześć {name} {surname}!"
-    return wynik
+return wynik
 
-# Przykładowe użycie funkcji
 imie = "Jan"
 nazwisko = "Kowalski"
 wynik_przywitania = przywitanie(imie, nazwisko)
 
-# Wyświetlenie wyniku
 print(wynik_przywitania)
 
