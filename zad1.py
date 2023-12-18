@@ -8,6 +8,7 @@ def przywitanie(name, surname):
     wynik = f"Cześć {name} {surname}!"
     return wynik
 
+
 imie = "Jan"
 nazwisko = "Kowalski"
 wynik_przywitania = przywitanie(imie, nazwisko)
